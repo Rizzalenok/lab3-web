@@ -1,0 +1,30 @@
+h1 {
+	color: white;
+	text-align: center;
+	background: brown;
+}
+
+.text1 {
+	color: brown;
+	background: #FFE4E1;
+	text-align: justify;
+}
+
+.black {
+	color: black;
+	font-weight: bold;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	text-align: justify;
+}
+
+a {
+	color: brown;
+}
+
+a:hover {
+	color: red;
+}
